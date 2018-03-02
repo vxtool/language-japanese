@@ -1,7 +1,7 @@
 # Language Japanese
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/language-solutions/language-japanese.svg?style=flat-square)](https://github.com/language-solutions/language-japanese/issues)
+[![issues](https://img.shields.io/github/issues/descco-tools/language-japanese.svg?style=flat-square)](https://github.com/descco-tools/language-japanese/issues)
 
 ## Summary
 
@@ -16,7 +16,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/language-solutions/language-japanese/releases) for detailed changelog.
+Check [Releases](https://github.com/descco-tools/language-japanese/releases) for detailed changelog.
 
 ## License
 
